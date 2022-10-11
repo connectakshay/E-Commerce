@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/E-Commerce/static/css/main.0abedb28.css",
+    "main.js": "/E-Commerce/static/js/main.91381b81.js",
+    "static/media/e-3.jpg": "/E-Commerce/static/media/e-3.a28685db12c907d92b80.jpg",
+    "static/media/b-3.jpg": "/E-Commerce/static/media/b-3.73fc6eed1e48d59cf13a.jpg",
+    "static/media/m-3.jpg": "/E-Commerce/static/media/m-3.5bf575c97b6d825bc0c5.jpg",
+    "static/media/b-2.jpg": "/E-Commerce/static/media/b-2.c49d241f2a91db333dc6.jpg",
+    "static/media/b-7.jpg": "/E-Commerce/static/media/b-7.4287c1832d2f8e30b02f.jpg",
+    "static/media/e-1.jpg": "/E-Commerce/static/media/e-1.35c526e7cb8c67984634.jpg",
+    "static/media/e-8.jpg": "/E-Commerce/static/media/e-8.c371ef65a0880a584072.jpg",
+    "static/media/m-9.jpg": "/E-Commerce/static/media/m-9.b30f5a9d5de289ea0b21.jpg",
+    "static/media/m-7.jpg": "/E-Commerce/static/media/m-7.0821891bfbb898e3dfeb.jpg",
+    "static/media/m-4.jpg": "/E-Commerce/static/media/m-4.80d144a9341688e77a56.jpg",
+    "static/media/e-2.jpg": "/E-Commerce/static/media/e-2.0f5e95f0ae9579dc698a.jpg",
+    "static/media/m-6.jpg": "/E-Commerce/static/media/m-6.7eb7a8c6c16a05641ccb.jpg",
+    "static/media/e-9.jpg": "/E-Commerce/static/media/e-9.427348fac03bc72ba0e2.jpg",
+    "static/media/f-9.jpg": "/E-Commerce/static/media/f-9.b9808e6138bb40296f7e.jpg",
+    "static/media/e-6.jpg": "/E-Commerce/static/media/e-6.c1174dd25669afef5261.jpg",
+    "static/media/e-5.jpg": "/E-Commerce/static/media/e-5.3248c04ff7fc88adfad2.jpg",
+    "static/media/b-4.jpg": "/E-Commerce/static/media/b-4.2a58972d0022fdfd14fd.jpg",
+    "static/media/s-8.jpg": "/E-Commerce/static/media/s-8.c1adefca47a87ad3f010.jpg",
+    "static/media/r-6.jpg": "/E-Commerce/static/media/r-6.163558042a0d5eabf55c.jpg",
+    "static/media/g-5.jpg": "/E-Commerce/static/media/g-5.a6b06b54114b917a1b86.jpg",
+    "static/media/e-7.jpg": "/E-Commerce/static/media/e-7.ba573e4562dcb7c6d9e8.jpg",
+    "static/media/b-1.jpg": "/E-Commerce/static/media/b-1.0d0ca0ef37717631aa65.jpg",
+    "static/media/e-4.jpg": "/E-Commerce/static/media/e-4.0a2da995492a5c66b8a6.jpg",
+    "index.html": "/E-Commerce/index.html",
+    "main.0abedb28.css.map": "/E-Commerce/static/css/main.0abedb28.css.map",
+    "main.91381b81.js.map": "/E-Commerce/static/js/main.91381b81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0abedb28.css",
+    "static/js/main.91381b81.js"
+  ]
+}
